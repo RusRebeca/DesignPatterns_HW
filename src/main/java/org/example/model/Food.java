@@ -1,0 +1,6 @@
+package org.example.model;
+
+public interface Food {
+    void prepare();
+    double getPrice();
+}
